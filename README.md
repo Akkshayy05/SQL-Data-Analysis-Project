@@ -10,11 +10,11 @@ exports the results to Excel reports.
   - gold.dim_customers.xlsx
   - gold.dim_products.xlsx
   - gold.fact_sales.xlsx
-  **sql/**
+  - **sql/**
  - Database_Creation.sql
  - Project_Customer_Report.sql
  - Project_Product_Report.sql
-  **outputs/**
+  - **outputs/**
  - Customer_Report_Output.xlsx
  - Product_Report_Output.xlsx
  - README.md
