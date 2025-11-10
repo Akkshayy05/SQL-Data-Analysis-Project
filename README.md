@@ -5,6 +5,20 @@
 This project analyzes customer and product sales data using **PostgreSQL (pgAdmin)** and 
 exports the results to Excel reports.
 
+   SQL-Data-Analysis-Project/
+ ┣ data/
+ ┃ ┣ gold.dim_customers.xlsx
+ ┃ ┣ gold.dim_products.xlsx
+ ┃ ┗ gold.fact_sales.xlsx
+ ┣ sql/
+ ┃ ┣ Database_Creation.sql
+ ┃ ┣ Project_Customer_Report.sql
+ ┃ ┗ Project_Product_Report.sql
+ ┣ outputs/
+ ┃ ┣ Customer_Report_Output.xlsx
+ ┃ ┗ Product_Report_Output.xlsx
+ ┗ README.md
+
 ##  Folder Structure
 - **data/** → Source Excel files 
 - **sql/** → SQL scripts for database creation and reports
